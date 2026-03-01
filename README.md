@@ -4,8 +4,7 @@ This repository contains assignments and related materials for the undergraduate
 
 ## Course Overview
 
-Bioinformatics is an interdisciplinary field that analyzes biomedical data using mathematics, statistics, and computer science.  
-This course aims to provide foundational knowledge in bioinformatics while cultivating practical analytical and programming skills.
+Bioinformatics is an interdisciplinary field that analyzes biomedical data using mathematics, statistics, and computer science. This course aims to provide foundational knowledge in bioinformatics while cultivating practical analytical and programming skills.
 
 Through progressive training, students learn:
 
