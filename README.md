@@ -27,7 +27,7 @@
 
 
 
-## 三、Algorithm 与 Model 的区别
+## 三、Model 与 Algorithm 的区别
 
 ### 1. Model（模型）
 
